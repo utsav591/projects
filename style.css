@@ -1,0 +1,213 @@
+body {
+    padding-top: 55px;
+    border-bottom: 3px solid #6bc449;
+    color: black;
+}
+
+.bgcolor {
+    border-bottom: 3px solid #6bc449;
+}
+
+.nav-img {
+    height: 40px;
+}
+
+.cardbd {
+    width: 20rem;
+    height: 252px;
+}
+
+.nav-link {
+    color: #000000;
+}
+
+.nav-link:hover {
+    color: #6bc449;
+}
+
+h1 {
+    color: #6ad72f;
+}
+
+.banner {
+    padding: 8rem !important;
+}
+
+.second {
+    padding-bottom: 20px;
+}
+
+.cardbg {
+    width: 30rem;
+    height: 235px;
+    background-color: white;
+}
+
+.bgpadding {
+    padding-left: 10rem;
+}
+
+.icon {
+    height: 80px;
+    width: 50px;
+    padding-left: 100px !important;
+    color: #6ad72f;
+}
+
+.btn-success {
+    background-color: #6ad72f;
+}
+
+.image1 {
+    height: 450px;
+    width: 500px;
+}
+
+.image2 {
+    position: relative;
+    left: 150px;
+    height: 69vh;
+    width: 200px;
+}
+
+.image3 {
+    right: 90px;
+    height: 68vh;
+    width: 313px;
+}
+
+.thirdpage {
+    padding-top: 5rem !important;
+}
+
+.four {
+    background-color: #6ad72f;
+
+}
+
+.btcolor {
+    color: white;
+}
+
+.rounded {
+    border-radius: 1.25rem !important;
+}
+
+.card-body {
+    height: 150px;
+    left: 100px
+}
+
+.icons {
+    height: 6vh;
+    color: #6ad72f;
+}
+
+.background {
+    background-color: rgb(238, 238, 238);
+}
+
+.image4 {
+    height: 57vh;
+    width: 519px;
+    
+}
+
+.banner1 {
+    background-image: url(photos/banner-new.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 100vh;
+
+}
+
+.login {
+    padding: 5rem !important;
+    font-size: 20px;
+}
+
+@media (max-width: 450px) {
+    .nav-img {
+        height: 25px;
+    }
+    h1{
+        font-size: 30px;
+    }
+    h2{
+        font-size: 20px;
+        height: 20px;
+        padding-bottom: 45px;
+    }
+    .second {
+        padding-bottom: 50px;
+    }
+    .cardbd {
+        width: 26rem;
+        height: 252px;
+        margin-bottom: 20px;
+    }
+    .icon {
+        height: 60px;
+        width: 45px;
+        padding-left: 130px !important;
+        color: #6ad72f;
+    }
+    .image2 {
+        position: relative;
+        left: 70px;
+        height: 39vh;
+        width: 130px;
+    }
+
+    .image3 {
+        right: 30px;
+        height: 39vh;
+        width: 203px;
+    }
+
+    .image4 {
+        margin-top: 20px;
+        height: 39vh;
+        width: 319px; 
+    }
+    .banner {
+        padding: 5rem !important;
+    }
+    .image1 {
+        height: 270px;
+        width: 330px;
+    }
+    .bgpadding {
+        padding-left: 15px;
+    }
+    .about-pg {
+        padding-top: 20px;
+    }
+    .thirdpage {
+        padding: 3rem !important;
+    }
+    .cardbg {
+        width: 20rem;
+        height: 135px;
+        font-size: 10px;
+    }
+    .card-text{
+        padding: 20px;
+    }
+    .banner1{
+        width: 70%;
+     height: 100vh;
+    }
+    .icons{
+        height: 8vh;
+    }
+    .btcolor{
+        font-size: 15px;
+    }
+    .login {
+        padding: 3rem !important;
+        font-size: 15px;
+    }
+}
