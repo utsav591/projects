@@ -95,7 +95,7 @@ h1 {
 
 .card-body {
     height: 150px;
-    left: 100px
+    
 }
 
 .icons {
@@ -133,47 +133,46 @@ h1 {
         height: 25px;
     }
     h1{
-        font-size: 30px;
+        font-size: 28px;
     }
     h2{
-        font-size: 20px;
-        height: 20px;
+        font-size: 18px;
+        height: 10px;
         padding-bottom: 45px;
     }
     .second {
         padding-bottom: 50px;
     }
     .cardbd {
-        width: 26rem;
-        height: 252px;
-        margin-bottom: 20px;
+        width: 24rem;
+        height: 260px;
+        padding-left: 40px;
     }
     .icon {
-        height: 60px;
-        width: 45px;
-        padding-left: 130px !important;
-        color: #6ad72f;
+        height: 55px;
+        padding-left: 115px !important;
     }
     .image2 {
         position: relative;
-        left: 70px;
-        height: 39vh;
-        width: 130px;
+        left: 64px;
+        height: 35vh;
+        width: 134px;
     }
-
     .image3 {
         right: 30px;
         height: 39vh;
-        width: 203px;
+        width: 153px;
     }
-
+.img-p{
+    padding-left: 10px;
+}
     .image4 {
         margin-top: 20px;
         height: 39vh;
         width: 319px; 
     }
     .banner {
-        padding: 5rem !important;
+        padding: 34px !important;
     }
     .image1 {
         height: 270px;
@@ -186,15 +185,18 @@ h1 {
         padding-top: 20px;
     }
     .thirdpage {
-        padding: 3rem !important;
+        padding: 35px !important;
     }
     .cardbg {
-        width: 20rem;
-        height: 135px;
-        font-size: 10px;
+        width: 21rem;
+        height: 200px;
+        font-size: 14px;
     }
     .card-text{
-        padding: 20px;
+        padding: 8px 10px;
+    }
+    .background{
+        padding-top: 14px;
     }
     .banner1{
         width: 70%;
