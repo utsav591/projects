@@ -144,19 +144,19 @@ h1 {
         padding-bottom: 50px;
     }
     .cardbd {
-        width: 24rem;
-        height: 260px;
-        padding-left: 40px;
+        width: 365px;
+        height: 274px;
+        padding-left: 45px;
     }
     .icon {
         height: 55px;
-        padding-left: 115px !important;
+        padding-left: 110px !important;
     }
     .image2 {
         position: relative;
         left: 64px;
         height: 35vh;
-        width: 134px;
+        width: 128px;
     }
     .image3 {
         right: 30px;
@@ -167,9 +167,10 @@ h1 {
     padding-left: 10px;
 }
     .image4 {
-        margin-top: 20px;
-        height: 39vh;
-        width: 319px; 
+        margin-top: 25px;
+    height: 39vh;
+    width: 319px;
+    margin-left: 12px;
     }
     .banner {
         padding: 34px !important;
@@ -185,11 +186,11 @@ h1 {
         padding-top: 20px;
     }
     .thirdpage {
-        padding: 35px !important;
+        padding: 32px !important;
     }
     .cardbg {
-        width: 21rem;
-        height: 200px;
+        width: 320px;
+        height: 220px;
         font-size: 14px;
     }
     .card-text{
