@@ -113,7 +113,6 @@ h1 {
     width: 519px;
 
 }
-
 .banner1 {
     background-image: url(photos/banner-new.jpg);
     background-size: cover;
@@ -153,11 +152,11 @@ h1 {
     }
 
     .cardbd {
-        width: 365px;
+        width: 348px;
         height: 274px;
         padding-left: 45px;
     }
-
+    
     .icon {
         height: 55px;
         padding-left: 110px !important;
