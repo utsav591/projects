@@ -6,8 +6,12 @@ body {
 
 .bgcolor {
     border-bottom: 2px solid #6bc449;
-    padding-right: 60px;
 }
+
+.navbar-brand {
+    padding-left: 90px;
+}
+
 .nav-img {
     height: 40px;
 }
@@ -77,11 +81,12 @@ h1 {
 }
 
 .thirdpage {
-    padding-top: 4rem !important;
+    padding-top: 5rem !important;
 }
 
 .four {
     background-color: #6ad72f;
+
 }
 
 .btcolor {
@@ -94,6 +99,7 @@ h1 {
 
 .card-body {
     height: 150px;
+
 }
 
 .icons {
@@ -108,6 +114,7 @@ h1 {
 .image4 {
     height: 57vh;
     width: 519px;
+
 }
 
 .banner1 {
@@ -117,10 +124,11 @@ h1 {
     background-repeat: no-repeat;
     width: 100%;
     height: 100vh;
+
 }
 
 .login {
-    padding: 5rem !important;
+    padding: 60px;
     font-size: 20px;
 }
 
@@ -214,8 +222,8 @@ h1 {
     }
 
     .banner1 {
-        width: 70%;
-        height: 100vh;
+        width: 413px;
+        height: 70vh;
     }
 
     .icons {
@@ -227,7 +235,7 @@ h1 {
     }
 
     .login {
-        padding: 3rem !important;
-        font-size: 15px;
+        padding: 23px;
+    font-size: 14px;
     }
 }
