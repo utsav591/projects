@@ -1,6 +1,5 @@
 body {
     padding-top: 50px;
-    border-bottom: 3px solid #6bc449;
     color: black;
 }
 
@@ -86,7 +85,6 @@ h1 {
 
 .four {
     background-color: #6ad72f;
-
 }
 
 .btcolor {
@@ -99,7 +97,6 @@ h1 {
 
 .card-body {
     height: 150px;
-
 }
 
 .icons {
@@ -185,8 +182,8 @@ h1 {
 
     .image4 {
         margin-top: 25px;
-        height: 39vh;
-        width: 319px;
+        height: 43vh;
+        width: 322px;
         margin-left: 12px;
     }
 
