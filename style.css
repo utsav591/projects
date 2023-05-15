@@ -2,28 +2,22 @@ body {
     padding-top: 50px;
     color: black;
 }
-
 .bgcolor {
     border-bottom: 2px solid #6bc449;
 }
-
 .navbar-brand {
     padding-left: 90px;
 }
-
 .nav-img {
     height: 40px;
 }
-
 .cardbd {
     width: 20rem;
     height: 252px;
 }
-
 .nav-link {
     color: #000000;
 }
-
 .nav-link:hover {
     color: #6bc449;
 }
@@ -126,6 +120,10 @@ h1 {
 .login {
     padding: 60px;
     font-size: 20px;
+}
+.darkM{
+    background-color: black;
+    color: #6ad72f;
 }
 
 @media (max-width: 450px) {

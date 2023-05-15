@@ -14,7 +14,7 @@
 </head>
 
 <body>
-    <section class="background">
+    <section class="background" id="section">
         <nav class="navbar navbar-expand-lg bg-light fixed-top">
             <div class="container-fluid bgcolor">
                 <a class="navbar-brand" href="index.html"><img class="nav-img" src="photos/logo.png" alt="logo" /></a>
@@ -43,11 +43,12 @@
                                 MY ACCOUNT
                             </a>
                             <ul class="dropdown-menu">
-                                <li><a class="dropdown-item" href="signup.html">Sign UP</a></li>
+                                <li><a class="dropdown-item" href="signup.html">SIGN UP</a></li>
                                 <li><hr class="dropdown-divider"></li>
                                 <li><a class="dropdown-item" href="login.html">LOGIN </a></li>
                             </ul>
                         </li>
+                        <button class="p-2 justify-content-center rounded-5 " onclick="myFunction()">Dark Mode</button>
                     </ul>
                 </div>
             </div>
@@ -56,7 +57,7 @@
     <section class="background bg-body-secondary">
         <div class="container">
             <div class="row">
-                <div class="col-lg-6 banner">
+                <div class="col-lg-6 banner" id="baner1">
                     <h1>Your Gatway To Alternative Investments.</h1>
                     <p>Take Control With All-In-One Investment,Retirement,Checking And more.</p>
                     <button type="button" class="btn btn-success px-lg-5 rounded-pill">Get Started</button>
@@ -228,9 +229,9 @@
         </div>
     </section>
     <section class="four">
-        <div class="container py-3">
+        <div class="container py-3" >
             <div class="row">
-                <div class="col-lg-10 px-3">
+                <div class="col-lg-10 px-3" id="four1">
                     <h1 class="btcolor fs-2">Take Your First Step Towards Your Financial Success</h1>
                 </div>
                 <div class="col-lg-2 py-3" id="sign up">
@@ -286,6 +287,7 @@
         integrity="sha384-mQ93GR66B00ZXjt0YO5KlohRA5SY2XofN4zfuZxLkoj1gXtW8ANNCe9d5Y3eG5eD"
         crossorigin="anonymous"></script>
     <script src="https://kit.fontawesome.com/12b04497e2.js" crossorigin="anonymous"></script>
+    <script src="index.js"></script>
 </body>
 
 </html>
